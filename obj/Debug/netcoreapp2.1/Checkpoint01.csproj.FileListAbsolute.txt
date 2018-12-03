@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\bin\Debug\netcoreapp2.1\Checkpoint01.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\bin\Debug\netcoreapp2.1\Checkpoint01.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\bin\Debug\netcoreapp2.1\Checkpoint01.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\bin\Debug\netcoreapp2.1\Checkpoint01.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\bin\Debug\netcoreapp2.1\Checkpoint01.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\obj\Debug\netcoreapp2.1\Checkpoint01.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\obj\Debug\netcoreapp2.1\Checkpoint01.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\obj\Debug\netcoreapp2.1\Checkpoint01.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\obj\Debug\netcoreapp2.1\Checkpoint01.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\obj\Debug\netcoreapp2.1\Checkpoint01.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Checkpoint01\obj\Debug\netcoreapp2.1\Checkpoint01.pdb
