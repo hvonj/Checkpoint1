@@ -16,7 +16,7 @@ namespace Checkpoint01
             Console.Write("Write command: ");
             Console.ForegroundColor = ConsoleColor.Green;
             string input = Console.ReadLine();
-            string[] number = input.Split('-');
+            string[] number = input.Split("");
             
             //TODO Change to unicode symbol.
             int i, k;
